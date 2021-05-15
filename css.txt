@@ -1,0 +1,19 @@
+  
+
+#CSS for image
+[Link](https://ebooks.stackexchange.com/questions/4751/stretching-an-image-to-fit-the-screen)
+
+'''
+<style type="text/css">
+div.image-replace-title  {
+  width: 95%;
+  margin-left:  auto;
+  margin-right:  auto;
+}
+
+div.image-replace-title img {
+  width: 100%;
+  display: inline;
+}
+</style>
+'''
